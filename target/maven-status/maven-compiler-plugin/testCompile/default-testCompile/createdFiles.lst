@@ -1,0 +1,3 @@
+com\emidstest\hicalc\controller\HealthInsurancePremiumCalcControllerTest.class
+com\emidstest\hicalc\controller\CucumberRunner.class
+com\emidstest\hicalc\controller\BaseIntegrationTest.class

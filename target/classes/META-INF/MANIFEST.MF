@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: hipremiumcalc-rest
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Sriram
+Implementation-Vendor-Id: com.emidstest.hipremcalc
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/hipremiumcal
+ c-rest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
